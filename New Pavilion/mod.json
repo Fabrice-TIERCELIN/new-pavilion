@@ -4,7 +4,7 @@
 	
 	"author" : "Bastion New Town Group, edeksumo, New Pawulon Team, Acid Cave community",
 	"contact" : "madaosoul@gmail.com",
-	"version" : "2.9.71",
+	"version" : "2.9.72",
 	"modType" : "Town",	
 	"compatibility":
 	{
@@ -12,6 +12,7 @@
 	},	
 	"changelog" :
 	{
+		"2.9.72"   : [ "Added campaign Wars of the Dessert made by Fabrice-TIERCELIN" ],
 		"2.9.71"   : [ "Fix Grail not to produce gold" ],
 		"2.9.70"   : [ "Update to vcmi-1.6 format" ],
 		"2.9.63"   : [ "Czech translation by George King" ],
